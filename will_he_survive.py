@@ -16,3 +16,7 @@ result = hero(100,50)
 result2 = hero(50,100)
 print(result)
 print(result2)
+
+
+# Calculate the required_bullets by multiplying the number of dragons (dragons) by 2, 
+# since each dragon requires 2 bullets to be defeated.
